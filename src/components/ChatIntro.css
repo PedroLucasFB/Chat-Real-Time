@@ -1,0 +1,9 @@
+.chatIntro {
+    background-color: #F8F9FA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-bottom: 6px solid #4ADF83;
+}
